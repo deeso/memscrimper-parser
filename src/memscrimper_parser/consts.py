@@ -1,0 +1,4 @@
+QWORD = 8
+DWORD = 4
+WORD = 2
+BYTE = 1
